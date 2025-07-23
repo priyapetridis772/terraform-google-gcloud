@@ -8,3 +8,4 @@ Notes and usage details for terraform-google-gcloud.
 - link the usage section
 - add a note about the defaults
 - fix a small wording issue
+- clarify the setup steps
